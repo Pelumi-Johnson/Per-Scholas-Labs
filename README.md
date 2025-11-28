@@ -8,7 +8,7 @@ These labs cover networking, system administration, incident response, and found
 ## 🖧 Cisco Packet Tracer Networking Labs
 Hands-on networking labs focused on VLANs, routing, ACLs, NAT, DHCP, subnetting, and secure switch/router configuration.
 
-➡ **[View Packet Tracer Labs](./Packet-Tracer-Labs)**
+➡ **[View Packet Tracer Labs](https://github.com/Pelumi-Johnson/Per-Scholas-Labs/tree/main)**
 
 ---
 
