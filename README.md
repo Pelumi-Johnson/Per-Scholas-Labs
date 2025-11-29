@@ -33,4 +33,4 @@ Labs focusing on diagnostics, packet flow, interface configuration, and basic in
 
 ---
 
-If you need help creating folders or uploading your Google Docs, let me know — I’ll walk you through each one.
+
