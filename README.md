@@ -1,7 +1,6 @@
 # 🟦 Per Scholas Security Labs
 
-A collection of hands-on labs completed during the Per Scholas Cybersecurity Analyst program.  
-These labs cover networking, system administration, incident response, and foundational security concepts.
+
 
 ---
 
