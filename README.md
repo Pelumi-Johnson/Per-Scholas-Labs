@@ -25,11 +25,5 @@ Labs completed in Google Docs with screenshots, configurations, and explanations
 
 ---
 
-## 📡 Network Troubleshooting & Analysis Labs
-Labs focusing on diagnostics, packet flow, interface configuration, and basic incident response.
-
-➡ **[View Network Troubleshooting Labs](./Network-Troubleshooting)**
-
----
 
 
