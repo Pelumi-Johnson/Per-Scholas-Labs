@@ -16,7 +16,7 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 ---
 
-## 🤝 Collaborative Security Projects (Per Scholas)
+## 👥 Collaborative Security Projects 
 Team-based security labs and joint presentations completed with cohort members, emphasizing communication and shared problem-solving.
 
 ➡ **[View Collaborative Security Projects](./Collaborative-Projects)**
