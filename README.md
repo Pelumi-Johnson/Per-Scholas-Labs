@@ -11,10 +11,10 @@ Hands-on networking labs focused on VLANs, routing, ACLs, NAT, DHCP, subnetting,
 
 ---
 
-## 🛡️ Security Fundamentals & Hardening Labs
-System security, Linux/Windows hardening, permissions, firewall configuration, and secure remote access.
+## 🛡️ Per Scholas CySA+ Security Analysis Labs
+Hands-on threat detection, log analysis, incident response exercises, and security monitoring aligned with CySA+ domains.
 
-➡ **[View Security Fundamentals Labs](./Security-Fundamentals)**
+➡ **[View Per Scholas CySA+ Labs](./Per-Scholas-CySA-Labs)**
 
 ---
 
