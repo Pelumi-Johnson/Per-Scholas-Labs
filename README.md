@@ -11,7 +11,7 @@ Hands-on networking labs focused on VLANs, routing, ACLs, NAT, DHCP, subnetting,
 
 ---
 
-## 🚨 Per Scholas CySA+ Security Analysis Labs
+## 🚨 Security Analysis Labs
 Hands-on threat detection, log analysis, incident response exercises, and security monitoring aligned with CySA+ domains.
 
 ➡ **[View Per Scholas CySA+ Labs](./Per-Scholas-CySA-Labs)**
