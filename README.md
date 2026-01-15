@@ -1,7 +1,5 @@
 # 🟦 Per Scholas Security Labs
 
-
-
 ---
 
 ## 🖧 Cisco Packet Tracer Networking Labs
@@ -18,7 +16,12 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 ---
 
+## 🤝 Collaborative Security Projects (Per Scholas)
+Team-based security labs and joint presentations completed with cohort members, emphasizing communication and shared problem-solving.
 
+➡ **[View Collaborative Security Projects](./Collaborative-Projects)**
+
+---
 
 
 
