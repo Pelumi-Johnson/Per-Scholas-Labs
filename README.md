@@ -18,12 +18,7 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 ---
 
-## 📁 Documentation-Based Labs
-Labs completed in Google Docs with screenshots, configurations, and explanations.
 
-➡ **[View Documentation Labs](./Documentation-Labs)**
-
----
 
 
 
