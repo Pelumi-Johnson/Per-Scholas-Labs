@@ -19,7 +19,7 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 ## 👥 Collaborative Security Case Studies
 Team-based security labs and joint presentations completed with cohort members, emphasizing communication and shared problem-solving.
 
-➡ **[View Collaborative Security Projects](./Collaborative-Projects)**
+➡ **[View Collaborative Security Projects](https://github.com/Pelumi-Johnson/Collaborative-Security-Case-Studies/tree/main)**
 
 ---
 
